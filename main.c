@@ -1,4 +1,7 @@
-// Make conflict
+<<<<<<< HEAD
+=======
+// testbranch
+>>>>>>> testbranch
 #include <stdio.h>
 #include "myheader.h"
 
